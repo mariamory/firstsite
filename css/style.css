@@ -4,7 +4,7 @@ body {background-color:#888}
 .clearfix {clear:both}
 /*End main rules*/
 /*start header*/
-.header {min-height:100px;overflow:hidden;background-size:cover}
+.header {min-height:100px;overflow:hidden;background-size:cover;background-repeat:no-repeat}
 .header .slider{background-color:#fff;height:665px;overflow:hidden}
 .header .slider .intro {height:665px;background-image: url('../images/GraphicDesign.jpg');
                         text-align:center;color:darkblue;padding-top:547px}
