@@ -64,9 +64,9 @@ body {background-color:#7ECEFD}
 .resume button {margin-top:15px}
 /*end resume*/
 /*start my education*/
-.my-education {background-color:#FD979B;padding-top:30px;padding-bottom:30px;overflow:hidden}
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden}
 .my-education hr {margin:20px 0;height:1px;background-color:#999;border:0}
-.my-education .main {width:50%;margin-right:5%}
+.my-education .main {width:50%;margin-right:5%;background-color:#FD979B}
 .my-education .main h2 {color:#555; margin:25px 0 20px 40px}
 .my-education .main p {color:#666;margin:0 0 10px 40px;line-height:1.6}
 .my-education p:last-of-type {margin-top:25px}
