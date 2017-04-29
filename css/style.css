@@ -21,7 +21,7 @@ body {background-color:#7ECEFD}
 .header .navbar ul li a:hover {color:#3E454C} 
 /*End header*/
 /*start features*/
-.features {overflow:hidden;padding-top:40px;padding-bottom:50px;background-color:azure}
+.features {overflow:hidden;padding-top:40px;padding-bottom:50px;background-color:65A4CA}
 .features .feature {width:33.3333%;height:150px}
 .features .feature h2 {text-transform:capitalize;color:#333}
 .features .feature p {line-height:1.7;color:#555;padding:0 20px 0 0}
