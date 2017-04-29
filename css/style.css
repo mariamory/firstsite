@@ -44,7 +44,7 @@ body {background-color:#7ECEFD}
 .about-me .info .hobbies .content .text p {margin-top:0}
 /*end about me*/
 /*start my skills*/
-.my-skills {padding-top:30px;padding-bottom:50px;background-color:#7ECEFD;overflow:hidden}
+.my-skills {padding-top:30px;padding-bottom:50px;background-color:#FFF6E5;overflow:hidden}
 .my-skills .skills, .my-skills .progress {width:50%}
 .my-skills .skills h2 {margin:25px 0 20px 40px;color:#555}
 .my-skills .skills p {margin:0 0 10px 40px;color:#666;line-height:1.6}
@@ -58,15 +58,15 @@ body {background-color:#7ECEFD}
 
 /*end my skills*/
 /*start resume*/
-.resume {background-color:#FFF6E5;padding-top:50px;padding-bottom:70px;text-align:center}
+.resume {background-color:#7ECEFD;padding-top:50px;padding-bottom:70px;text-align:center}
 .resume h2 {text-transform:capitalize;font-weight:bold;color:#777}
 .resume p {line-height:1.7;color:#777;padding:0 40px}
 .resume button {margin-top:15px}
 /*end resume*/
 /*start my education*/
-.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden}
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#}
 .my-education hr {margin:20px 0;height:1px;background-color:#999;border:0}
-.my-education .main {width:50%;margin-right:5%;background-color:#FD979B}
+.my-education .main {width:50%;margin-right:5%}
 .my-education .main h2 {color:#555; margin:25px 0 20px 40px}
 .my-education .main p {color:#666;margin:0 0 10px 40px;line-height:1.6}
 .my-education p:last-of-type {margin-top:25px}
