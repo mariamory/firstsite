@@ -16,7 +16,7 @@ body {background-color:#7ECEFD}
 .header .navbar h2 span {color:#FD979B;text-transform:capitalize}
 .header .navbar ul {padding-left:0;overflow:hidden;float:right;font-size:20px;list-style:none}
 .header .navbar ul li {float:left;padding:10px;margin:5px}
-.header .navbar ul li a {color:#2185C5;text-decoration:none}
+.header .navbar ul li a {color:#FFF6E5;text-decoration:none}
 .header .navbar ul li.active a,
 .header .navbar ul li a:hover {color:#3E454C} 
 /*End header*/
