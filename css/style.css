@@ -7,12 +7,12 @@ body {background-color:#888}
 .header {min-height:100px;overflow:hidden;background-size:cover;background-repeat:no-repeat}
 .header .slider{background-color:#fff;height:665px;overflow:hidden}
 .header .slider .intro {height:665px;background-image: url('../images/GraphicDesign.jpg');
-                        text-align:center;color:#418DC2;padding-top:547px}
+                        text-align:center;color:darkblue;padding-top:547px}
 .header .slider .intro h2 {margin:0 auto;font-size:50px;padding:5px 0;width:665px; 
                            border-top:4px solid darkblue;border-bottom:4px solid darkblue}
 .header .slider .intro button {background:none;margin-top:10px;font-size:20px;font-weight:bold;
                                border:2px solid darkblue ;padding:2px 10px;color:darkblue}
-.header .navbar {background-color:#252f31;color:#fff;overflow:hidden}
+.header .navbar {background-color:#3E454C;color:#fff;overflow:hidden}
 .header .navbar h2 span {color:#2ecc71;text-transform:capitalize}
 .header .navbar ul {padding-left:0;overflow:hidden;float:right;font-size:20px;list-style:none}
 .header .navbar ul li {float:left;padding:10px;margin:5px}
