@@ -64,7 +64,7 @@ body {background-color:#7ECEFD}
 .resume button {margin-top:15px}
 /*end resume*/
 /*start my education*/
-.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#}
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#FFF6E5}
 .my-education hr {margin:20px 0;height:1px;background-color:#999;border:0}
 .my-education .main {width:50%;margin-right:5%}
 .my-education .main h2 {color:#555; margin:25px 0 20px 40px}
@@ -79,7 +79,7 @@ body {background-color:#7ECEFD}
 .my-education .exp p {color:#777;line-height:1.7}
 /*end my education*/
 /*start testimonials*/
-.testimonials {background-color:#7ECEFD;padding-top:50px;padding-bottom:50px;text-align:center}
+.testimonials {background-color:#FD979B;padding-top:50px;padding-bottom:50px;text-align:center}
 .testimonials q {color:#888;font:italic bold 18px/1.8 Arial,Tahoma}
 .testimonials h3 {color:#777;margin-bottom:30px}
 .testimonials ul {text-align:center;list-style:none;padding-left:0}
@@ -97,7 +97,7 @@ body {background-color:#7ECEFD}
 .portfolio .our-work > div img {width:92%;margin:10px;padding:3px;background-color:#fff;border:1px solid #ccc}
 /*end portfolio*/
 /*start contact me*/
-.Contact {background-color:#3E454C;overflow:hidden;padding-top:50px;padding-bottom:70px} /*#252f31*/
+.Contact {background-color:#252f31;overflow:hidden;padding-top:50px;padding-bottom:70px} 
 .Contact .info {width:50%;margin-right:5%}
 .Contact h2 {color:#fff;margin-left:40px}
 .Contact p {color:#6a6e71;margin-left:40px;line-height:1.7}
