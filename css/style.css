@@ -12,7 +12,7 @@ body {background-color:#7ECEFD}
                            border-top:4px solid darkblue;border-bottom:4px solid darkblue}
 .header .slider .intro button {background:none;margin-top:10px;font-size:20px;font-weight:bold;
                                border:2px solid darkblue ;padding:2px 10px;color:darkblue}
-.header .navbar {background-color:#3E454C;color:#fff;overflow:hidden}
+.header .navbar {background-color:#7ECEFD;color:#fff;overflow:hidden}
 .header .navbar h2 span {color:#FD979B;text-transform:capitalize}
 .header .navbar ul {padding-left:0;overflow:hidden;float:right;font-size:20px;list-style:none}
 .header .navbar ul li {float:left;padding:10px;margin:5px}
