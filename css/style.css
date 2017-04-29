@@ -18,7 +18,7 @@ body {background-color:#888}
 .header .navbar ul li {float:left;padding:10px;margin:5px}
 .header .navbar ul li a {color:#fff;text-decoration:none}
 .header .navbar ul li.active a,
-.header .navbar ul li a:hover {color:#2ecc71} 
+.header .navbar ul li a:hover {color:#FFF6E5} 
 /*End header*/
 /*start features*/
 .features {overflow:hidden;padding-top:40px;padding-bottom:50px;background-color:azure}
