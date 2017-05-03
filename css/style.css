@@ -27,7 +27,7 @@ body {background-color:#3B403B}
 .features .feature p {line-height:1.7;color:#555;padding:0 20px 0 0}
 /*end features*/
 /*start about me*/
-.about-me {background-color:#00261C;overflow:hidden}
+.about-me {background-color:#D6E5D6;overflow:hidden}
 .about-me .image {width:40%}
 .about-me .image img {width:100%}
 .about-me .info {width:60%}
