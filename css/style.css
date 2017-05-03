@@ -58,13 +58,13 @@ body {background-color:#3B403B}
 
 /*end my skills*/
 /*start resume*/
-.resume {background-color:#7ECEFD;padding-top:50px;padding-bottom:70px;text-align:center}
+.resume {background-color:#D6E5D6;padding-top:50px;padding-bottom:70px;text-align:center}
 .resume h2 {text-transform:capitalize;font-weight:bold;color:#777}
 .resume p {line-height:1.7;color:#777;padding:0 40px}
 .resume button {margin-top:15px}
 /*end resume*/
 /*start my education*/
-.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#FFF6E5}
+.my-education {padding-top:30px;padding-bottom:30px;overflow:hidden;background-color:#FFF}
 .my-education hr {margin:20px 0;height:1px;background-color:#999;border:0}
 .my-education .main {width:50%;margin-right:5%}
 .my-education .main h2 {color:#555; margin:25px 0 20px 40px}
@@ -79,7 +79,7 @@ body {background-color:#3B403B}
 .my-education .exp p {color:#777;line-height:1.7}
 /*end my education*/
 /*start testimonials*/
-.testimonials {background-color:#FD979B;padding-top:50px;padding-bottom:50px;text-align:center}
+.testimonials {background-color:#D6E5D6;padding-top:50px;padding-bottom:50px;text-align:center}
 .testimonials q {color:#888;font:italic bold 18px/1.8 Arial,Tahoma}
 .testimonials h3 {color:#777;margin-bottom:30px}
 .testimonials ul {text-align:center;list-style:none;padding-left:0}
@@ -89,7 +89,7 @@ body {background-color:#3B403B}
 .testimonials ul li:hover {background-color:#2dcc70}
 /*end testimonials*/
 /*start portfolio*/
-.portfolio {padding-top:50px;padding-bottom:70;text-align:center;background-color:#FFF6E5}
+.portfolio {padding-top:50px;padding-bottom:70;text-align:center;background-color:#FFF}
 .portfolio h2 {color:#777}
 .portfolio p {color:#666;margin-bottom:30px;line-height:1.7}
 .portfolio .our-work {overflow:hidden}
