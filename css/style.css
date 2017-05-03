@@ -44,7 +44,7 @@ body {background-color:#3B403B}
 .about-me .info .hobbies .content .text p {margin-top:0}
 /*end about me*/
 /*start my skills*/
-.my-skills {padding-top:30px;padding-bottom:50px;background-color:#fff;overflow:hidden}
+.my-skills {padding-top:30px;padding-bottom:50px;background-color:#B2BFB2;overflow:hidden}
 .my-skills .skills, .my-skills .progress {width:50%}
 .my-skills .skills h2 {margin:25px 0 20px 40px;color:#555}
 .my-skills .skills p {margin:0 0 10px 40px;color:#666;line-height:1.6}
